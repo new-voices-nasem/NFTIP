@@ -1,2 +1,2 @@
 # NFTIP
-A platform to enable the production of ground truth on a particular topic
+NFTIP (Network For Trustworthy Information Production), is a platform that takes the questions from citizens from around the world, in their native tongue, applies multiple rounds of discovery and validation to determine an answer from a trustworthy and scientific sound source to produce a corpus of responses that provides users the most current, relevant, and accurate information possible.​​
